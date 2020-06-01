@@ -6,5 +6,5 @@ const getCategory = async () => {
         return category;
     }
     catch {console.log("API'den veri çekerken bir hata oluştu !")}
-  
+   
 }
